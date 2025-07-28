@@ -4,6 +4,9 @@
 **المشروع:** mp30hadeethsearch
 
 
+https://mp30quran.github.io/hadith-search-offline/index.html
+
+
 برنامج للبحث عن كلمة أو جملة في الأحاديث النبوية الشريفة ومعرفة عدد الأحاديث التي تحتوي على هذه الكلمة أو الجملة.
 
 ---
@@ -75,7 +78,6 @@
 - 📘 **صفحتنا على Facebook**: [mp30quran على Facebook](https://facebook.com/mp30quran)
 - 🛍️ **تطبيقاتنا على Google Play**: [Android Prof على Google Play](https://play.google.com/store/apps/developer?id=Android+Prof)
 - 🌍 **الموقع الإلكتروني**: [mp30quran - الموقع الرسمي](https://sites.google.com/view/mp30quran/home)
-- 💻 **صفحتنا على SourceForge**: [mp30quran على SourceForge](https://mp30quran.sourceforge.io/)
 
 ---
 
